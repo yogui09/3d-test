@@ -1,0 +1,15 @@
+{
+  "name": "test-3d",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.2.11"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^23.1.2",
+    "three": "^0.164.1"
+  }
+}
